@@ -1,7 +1,7 @@
 # JavaExercisees
-Hola chicos:
 
-Os doy unos cuantos enunciados para que os desoxidéis y practicar un poquillo con Java.
+
+---EjerciciosPropuestos20160517---
 
 LISTA DE EJERCICIOS DE REPASO A LA PARTE DE INICIACIÓN EN JAVA:
  
